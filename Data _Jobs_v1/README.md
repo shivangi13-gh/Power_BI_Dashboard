@@ -39,7 +39,7 @@ glance.
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page 2](/image/Project2_Page2.JPG)
+![Dashboard Page 2](/image/Project1_Page2.JPG)
 
 This is the deep-dive page. From the nain dashboard, you can drill through to this view to get details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
